@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![](https://github.com/i-m-foster/github-stats2/blob/master/generated/overview.svg)
-![](https://github.com/i-m-foster/github-stats2/blob/master/generated/languages.svg)
-
 <!--
 **i-m-foster/i-m-foster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
