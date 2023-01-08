@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+My name is Irene Foster (she/her) and I'm a senior at Smith college studying Statistical and Data Sciences💻 and working in a software engineering lab. Most of my data analysis experience is environmental science🌳🐜 related, but I am open to any field of study!  
 
 ![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/languages.svg#gh-light-mode-only)
