@@ -1,7 +1,12 @@
-### Hello!
+### Hi!
 
 My name is Irene Foster (she/her) and I'm a senior at Smith college studying Statistical and Data Sciences💻 and working in a software engineering lab. Most of my data analysis experience is environmental science🌳🐜 related, but I am open to any field of study!  
-
+---
+### Projects 
+* [amgrubb/BloomingLeaf](https://github.com/amgrubb/BloomingLeaf) A goal modeling website that I have contributed to while working at The Grubb Lab
+* [TSC Dashboard](https://tscdashboard.shinyapps.io/2022-09-proj4-ibm/) A dashboard created in collaboration with IBM as part of my senior capstone group to create a resource for emergency workers to help them make data-driven decisions on how to allocate resources during a natural disaster
+* [rporta23/censusviz](https://github.com/rporta23/censusviz) An R package to help users explore and visualize census data
+---
 ![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/languages.svg#gh-light-mode-only)
 
