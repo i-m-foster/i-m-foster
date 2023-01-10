@@ -5,7 +5,7 @@ My name is Irene Foster (she/her) and I'm a senior at Smith college studying Sta
 ---
 ### Projects 
 * [amgrubb/BloomingLeaf](https://github.com/amgrubb/BloomingLeaf) A goal modeling website that I have contributed to while working at The Grubb Lab🐝
-* [TSC Dashboard](https://tscdashboard.shinyapps.io/2022-09-proj4-ibm/) A dashboard for emergency responders to help them make data-driven decisions on how to allocate resources during a natural disaster🌊❄️ built for my senior capstone group project
+* [TSC Dashboard](https://tscdashboard.shinyapps.io/2022-09-proj4-ibm/) A dashboard for emergency responders to help them make data-driven📊 decisions on how to allocate resources during a natural disaster built for my senior capstone group project
 * [rporta23/censusviz](https://github.com/rporta23/censusviz) An R package to help users explore and visualize census data🗺️
 ---
 ![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/overview.svg#gh-light-mode-only)
