@@ -11,6 +11,8 @@ My name is Irene Foster (she/her) and I'm a senior at Smith college studying Sta
 ![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/languages.svg#gh-light-mode-only)
 
+![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/i-m-foster/gitStats/master/generated/languages.svg#gh-dark-mode-only)
 <!--
 **i-m-foster/i-m-foster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
